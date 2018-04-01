@@ -30,6 +30,5 @@ https://www.facebook.com/susmithHCK
 
 visit my blog for more info
 
-https://khromozome.blogspot.com
-
+Join the hacker's discussion forum: https://www.askthehackers.com/register
 ########################################
