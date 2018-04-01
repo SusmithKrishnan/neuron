@@ -12,7 +12,9 @@ print """
 	  ___  ___ __ _________  ___ 
 	 / _ \/ -_) // / __/ _ \/ _ \ 
 	/_//_/\__/\_,_/_/  \___/_//_/
-	messenger v 1.2 | susmithHCK                  
+	messenger v 1.2 | susmithHCK  
+        for queries: https://www.askthehackers.com
+
 
 """
 
